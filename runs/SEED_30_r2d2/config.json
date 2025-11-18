@@ -1,0 +1,18 @@
+{
+  "ALGO": "R2D2",
+  "GAMMA": 0.99,
+  "LR": 0.0001,
+  "BATCH_SIZE": 32,
+  "SEQ_LEN": 8,
+  "REPLAY_SIZE": 50000,
+  "EPISODES": 1000,
+  "MAX_STEPS": 300,
+  "SAVE_EVERY": 20,
+  "EPS_START": 1.0,
+  "EPS_END": 0.05,
+  "EPS_DECAY": 0.995,
+  "SOFT_TAU": 0.01,
+  "SEQ_OVERLAP": 4,
+  "GRAD_CLIP": 1.0,
+  "SEED": 30
+}

@@ -1,0 +1,11 @@
+{
+  "ALGO": "Dyna-Q",
+  "N_EPISODES": 1000,
+  "N_PLANNING": 7,
+  "ALPHA": 0.05,
+  "GAMMA": 0.99,
+  "EPSILON_START": 1.0,
+  "EPSILON_MIN": 0.05,
+  "EPSILON_DECAY": 0.996,
+  "SEED": 20
+}
